@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![version](https://img.shields.io/badge/version-3.10.4-3776AB?style=flat-square&logo=python&logoColor=white)
 
-
+<img width="675" height="523" alt="image" src="https://github.com/user-attachments/assets/3954a8a7-b002-4ac5-a809-916a88ecc46e" />
 
 ## Download
 <a href="https://github.com/Sadc2h4/Klefki-Conflu/releases/tag/v1.40a">
