@@ -37,6 +37,8 @@ and registered images from a website URL. It can be used for backing up websites
 
 ## Usage
 
+https://github.com/user-attachments/assets/210737ed-3d11-4bf4-b35d-5b871ea6d7b8
+
 1. `対象URL`テキストボックスに情報取得したい対象ホームページのURLを記載します．
 2. `取得対象`カテゴリーを選択してください（困ったらすべて取得でOK）
 3. `実行`ボタンを押すと取得が開始します．アプリウィンドウ内のログ表示エリアから取得状態や進捗が確認可能です．
