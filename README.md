@@ -6,7 +6,7 @@
 <img width="800" height="580" alt="Title_banner" src="https://github.com/user-attachments/assets/a9826d05-1800-4db1-961d-536a317ecc39" />
 
 ## Download
-<a href="https://github.com/Sadc2h4/Klefki-Conflu/releases/tag/v1.40a">
+<a href="https://github.com/Sadc2h4/Web-File-Gulpin/releases/tag/v1.1f">
   <img
     src="https://raw.githubusercontent.com/Sadc2h4/brand-assets/main/button/Download_Button_1.png"
     alt="Download .zip"
@@ -14,7 +14,7 @@
   />
 </a>
 <br>
-<a href="https://uu.getuploader.com/freehack/download/197">
+<a href="https://uu.getuploader.com/freehack/download/200">
   <img
     src="https://raw.githubusercontent.com/Sadc2h4/brand-assets/main/button/Download_Button_2.png"
     alt="Download .zip"
